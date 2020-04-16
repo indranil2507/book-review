@@ -1,0 +1,49 @@
+.about h1 {
+ margin-top: 100px;
+
+ color: whitesmoke;
+ 
+}
+
+.about p{
+    margin-top: 50px;
+    display: block;
+    margin-left: 65px;
+    margin-right: 65px;
+}
+.about{
+    color: whitesmoke;
+    font-size: 25px;
+}
+.categories {
+    color:whitesmoke
+}
+.contact-us{
+    color: white;
+
+}
+.contact-us h3{
+    text-align: center;
+
+}
+#au2{
+    list-style: none;
+}
+#au1{
+    list-style: none;
+}
+.nav-item :hover{
+    color:white !important;
+}
+.about2{
+    color: white;
+    text-align: center;
+}
+.list{
+list-style: none;
+
+}
+p{
+    margin-left: 50px;
+    margin-right: 50px;
+}
